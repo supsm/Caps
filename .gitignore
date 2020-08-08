@@ -1,5 +1,5 @@
-Caps++.vcxproj
-Caps++.vcxproj.filters
-Caps++.vcxproj.user
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
 md-styles.css
 x64/
