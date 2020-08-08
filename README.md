@@ -1,4 +1,4 @@
-# Caps
+# Caps++
  
 Improves caps lock by adding options to shift numbers and special characters.  
   
