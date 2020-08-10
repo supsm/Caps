@@ -15,4 +15,4 @@ To shift everything, press <kbd>Shift</kbd>+<kbd>Caps</kbd>.
   
 <br>
 
-Options to hold <kbd>Ctrl</kbd>, <kbd>Alt</kbd>, and <kbd>Win</kbd> (instead of <kbd>Shift</kbd>) will be added in the future.
+Options to hold <kbd>Ctrl</kbd>, <kbd>Alt</kbd>, and <kbd>Win</kbd> (instead of <kbd>Shift</kbd>) are in the latest version of `Source.cpp`, but barely anything works in that version. A new release will be added when the bugs are fixed.
